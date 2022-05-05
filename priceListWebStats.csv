@@ -1,4 +1,4 @@
-PartyId;MonitoringLink;ExcludedFromDeliveryCount;LocalizationType_filial;LocalizationType_hz;LocalizationType_subnet;LocalizationType_empty;cnt
+PartyId; MonitoringLink; ExcludedFromDeliveryCount; LocalizationType_filial; LocalizationType_hz; LocalizationType_subnet; LocalizationType_empty; cnt
 15e18217-a015-4849-ab3f-2605cc6186c4;https://edi.kontur.ru/Monitoring/TaskChainList/Document/538a786e-b41c-11ec-850f-c53c27bb2620;;;;1;;1
 15e18217-a015-4849-ab3f-2605cc6186c4;https://edi.kontur.ru/Monitoring/TaskChainList/Document/6dc73434-c071-11ec-8413-60a112bdc5f7;;;;1;;1
 15e18217-a015-4849-ab3f-2605cc6186c4;https://edi.kontur.ru/Monitoring/TaskChainList/Document/ebe9fd7d-bef2-11ec-b070-20c94b279e1c;;;;1;;1
